@@ -1,4 +1,4 @@
-# Energy HPC 2023 workshop - From Zero to Devtio
+# Energy HPC 2023 workshop - From Zero to Devito
 
 Workshop takes place Thursday, 2nd March 2023 (09:00 – 12:00 CST): 
 
